@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SEC3</folder>
+	<filename>PEAK6 Capital Management LLC 2017 SOFC Final_10.jpg</filename>
+	<path>D:\jianguoyun\our\paper\table detection\our\SEC3\PEAK6 Capital Management LLC 2017 SOFC Final_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1700</width>
+		<height>2200</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>732</ymin>
+			<xmax>1518</xmax>
+			<ymax>1257</ymax>
+		</bndbox>
+	</object>
+</annotation>

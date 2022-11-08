@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SEC1</folder>
+	<filename>CITI RETIREMENT SAVINGS PLAN FOR PUERTO RICO_120.jpg</filename>
+	<path>D:\jianguoyun\our\paper\table detection\our\SEC1\CITI RETIREMENT SAVINGS PLAN FOR PUERTO RICO_120.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1653</width>
+		<height>2339</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>427</ymin>
+			<xmax>1517</xmax>
+			<ymax>1471</ymax>
+		</bndbox>
+	</object>
+</annotation>

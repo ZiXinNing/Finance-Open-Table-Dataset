@@ -1,0 +1,38 @@
+<annotation>
+	<folder>SEC4</folder>
+	<filename>exhibit992triumphq2fy201_22.jpg</filename>
+	<path>D:\jianguoyun\our\paper\table detection\our\SEC4\exhibit992triumphq2fy201_22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1653</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>536</xmin>
+			<ymin>496</ymin>
+			<xmax>1432</xmax>
+			<ymax>685</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>542</xmin>
+			<ymin>738</ymin>
+			<xmax>1282</xmax>
+			<ymax>1086</ymax>
+		</bndbox>
+	</object>
+</annotation>

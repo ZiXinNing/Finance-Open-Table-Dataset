@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SEC4</folder>
+	<filename>kwefy16results_24.jpg</filename>
+	<path>D:\jianguoyun\our\paper\table detection\our\SEC4\kwefy16results_24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1653</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>1488</ymin>
+			<xmax>1407</xmax>
+			<ymax>2031</ymax>
+		</bndbox>
+	</object>
+</annotation>

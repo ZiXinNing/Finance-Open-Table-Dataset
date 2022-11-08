@@ -1,0 +1,38 @@
+<annotation>
+	<folder>SEC1</folder>
+	<filename>Apple_10-K-2019-(As-Filed)_45.jpg</filename>
+	<path>D:\jianguoyun\our\paper\table detection\our\SEC1\Apple_10-K-2019-(As-Filed)_45.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1700</width>
+		<height>2200</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>219</ymin>
+			<xmax>1569</xmax>
+			<ymax>1287</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>1388</ymin>
+			<xmax>1567</xmax>
+			<ymax>1728</ymax>
+		</bndbox>
+	</object>
+</annotation>

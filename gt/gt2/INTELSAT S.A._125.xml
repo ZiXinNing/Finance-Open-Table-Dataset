@@ -1,0 +1,38 @@
+<annotation>
+	<folder>SEC2</folder>
+	<filename>INTELSAT S.A._125.jpg</filename>
+	<path>E:\data_finily_img\SEC2\INTELSAT S.A._125.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1653</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>574</ymin>
+			<xmax>1571</xmax>
+			<ymax>920</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>1488</ymin>
+			<xmax>1576</xmax>
+			<ymax>1727</ymax>
+		</bndbox>
+	</object>
+</annotation>

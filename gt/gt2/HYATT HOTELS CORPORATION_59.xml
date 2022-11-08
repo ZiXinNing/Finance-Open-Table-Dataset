@@ -1,0 +1,50 @@
+<annotation>
+	<folder>SEC2</folder>
+	<filename>HYATT HOTELS CORPORATION_59.jpg</filename>
+	<path>E:\data_finily_img\SEC2\HYATT HOTELS CORPORATION_59.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1653</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>327</ymin>
+			<xmax>1569</xmax>
+			<ymax>701</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>1052</ymin>
+			<xmax>1557</xmax>
+			<ymax>1323</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>1491</ymin>
+			<xmax>1549</xmax>
+			<ymax>1764</ymax>
+		</bndbox>
+	</object>
+</annotation>

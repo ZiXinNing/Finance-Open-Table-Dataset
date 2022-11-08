@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SEC3</folder>
+	<filename>a17-11737_2ex99d1_15.jpg</filename>
+	<path>D:\jianguoyun\our\paper\table detection\our\SEC3\a17-11737_2ex99d1_15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1653</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>369</ymin>
+			<xmax>1453</xmax>
+			<ymax>1061</ymax>
+		</bndbox>
+	</object>
+</annotation>

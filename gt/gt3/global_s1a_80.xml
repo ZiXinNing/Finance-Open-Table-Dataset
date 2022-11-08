@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SEC3</folder>
+	<filename>global_s1a_80.jpg</filename>
+	<path>D:\jianguoyun\our\paper\table detection\our\SEC3\global_s1a_80.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1653</width>
+		<height>2339</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>1310</ymin>
+			<xmax>1563</xmax>
+			<ymax>1448</ymax>
+		</bndbox>
+	</object>
+</annotation>

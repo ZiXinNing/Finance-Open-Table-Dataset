@@ -1,0 +1,38 @@
+<annotation>
+	<folder>SEC2</folder>
+	<filename>Ford Motor3_72.jpg</filename>
+	<path>E:\data_finily_img\SEC2\Ford Motor3_72.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1653</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>306</xmin>
+			<ymin>371</ymin>
+			<xmax>1352</xmax>
+			<ymax>869</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>1271</ymin>
+			<xmax>1318</xmax>
+			<ymax>1737</ymax>
+		</bndbox>
+	</object>
+</annotation>

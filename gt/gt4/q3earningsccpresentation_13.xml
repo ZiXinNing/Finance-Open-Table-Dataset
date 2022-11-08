@@ -1,0 +1,38 @@
+<annotation>
+	<folder>SEC4</folder>
+	<filename>q3earningsccpresentation_13.jpg</filename>
+	<path>D:\jianguoyun\our\paper\table detection\our\SEC4\q3earningsccpresentation_13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1653</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>331</ymin>
+			<xmax>1474</xmax>
+			<ymax>721</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>740</ymin>
+			<xmax>1478</xmax>
+			<ymax>1206</ymax>
+		</bndbox>
+	</object>
+</annotation>

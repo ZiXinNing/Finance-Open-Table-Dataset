@@ -1,0 +1,38 @@
+<annotation>
+	<folder>SEC4</folder>
+	<filename>sirq316operatingsuppleme_35.jpg</filename>
+	<path>D:\jianguoyun\our\paper\table detection\our\SEC4\sirq316operatingsuppleme_35.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1653</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>392</ymin>
+			<xmax>1317</xmax>
+			<ymax>585</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>658</ymin>
+			<xmax>1065</xmax>
+			<ymax>854</ymax>
+		</bndbox>
+	</object>
+</annotation>

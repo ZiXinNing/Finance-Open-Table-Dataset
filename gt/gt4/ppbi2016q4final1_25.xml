@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SEC4</folder>
+	<filename>ppbi2016q4final1_25.jpg</filename>
+	<path>D:\jianguoyun\our\paper\table detection\our\SEC4\ppbi2016q4final1_25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1653</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>267</ymin>
+			<xmax>1517</xmax>
+			<ymax>1129</ymax>
+		</bndbox>
+	</object>
+</annotation>

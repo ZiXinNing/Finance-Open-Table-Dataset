@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SEC4</folder>
+	<filename>a060617nareitvffff_10.jpg</filename>
+	<path>D:\jianguoyun\our\paper\table detection\our\SEC4\a060617nareitvffff_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1653</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>365</ymin>
+			<xmax>1488</xmax>
+			<ymax>906</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>SEC2</folder>
+	<filename>INTELSAT S.A._132.jpg</filename>
+	<path>E:\data_finily_img\SEC2\INTELSAT S.A._132.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1653</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>215</ymin>
+			<xmax>1559</xmax>
+			<ymax>791</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>840</ymin>
+			<xmax>1549</xmax>
+			<ymax>1425</ymax>
+		</bndbox>
+	</object>
+</annotation>

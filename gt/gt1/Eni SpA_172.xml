@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SEC1</folder>
+	<filename>Eni SpA_172.jpg</filename>
+	<path>D:\jianguoyun\our\paper\table detection\our\SEC1\Eni SpA_172.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1653</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>240</ymin>
+			<xmax>1230</xmax>
+			<ymax>1092</ymax>
+		</bndbox>
+	</object>
+</annotation>

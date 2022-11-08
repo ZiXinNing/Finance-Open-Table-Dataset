@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SEC2</folder>
+	<filename>Ford Motor5_57.jpg</filename>
+	<path>E:\data_finily_img\SEC2\Ford Motor5_57.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1700</width>
+		<height>2200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>458</ymin>
+			<xmax>1224</xmax>
+			<ymax>936</ymax>
+		</bndbox>
+	</object>
+</annotation>

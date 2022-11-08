@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SEC4</folder>
+	<filename>Wdesk _ Document_20.jpg</filename>
+	<path>D:\jianguoyun\our\paper\table detection\our\SEC4\Wdesk _ Document_20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1653</width>
+		<height>2339</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>73</ymin>
+			<xmax>1555</xmax>
+			<ymax>1590</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SEC4</folder>
+	<filename>investorpresentationq120_14.jpg</filename>
+	<path>D:\jianguoyun\our\paper\table detection\our\SEC4\investorpresentationq120_14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1653</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>288</ymin>
+			<xmax>1534</xmax>
+			<ymax>1173</ymax>
+		</bndbox>
+	</object>
+</annotation>

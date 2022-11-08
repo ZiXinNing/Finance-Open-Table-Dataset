@@ -1,0 +1,38 @@
+<annotation>
+	<folder>SEC2</folder>
+	<filename>INTELSAT S.A._155.jpg</filename>
+	<path>E:\data_finily_img\SEC2\INTELSAT S.A._155.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1653</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>288</ymin>
+			<xmax>1542</xmax>
+			<ymax>654</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>654</ymin>
+			<xmax>1540</xmax>
+			<ymax>991</ymax>
+		</bndbox>
+	</object>
+</annotation>

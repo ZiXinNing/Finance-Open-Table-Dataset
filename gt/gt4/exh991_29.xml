@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SEC4</folder>
+	<filename>exh991_29.jpg</filename>
+	<path>D:\jianguoyun\our\paper\table detection\our\SEC4\exh991_29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1653</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>515</ymin>
+			<xmax>1480</xmax>
+			<ymax>1135</ymax>
+		</bndbox>
+	</object>
+</annotation>

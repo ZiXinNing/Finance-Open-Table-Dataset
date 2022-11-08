@@ -1,0 +1,38 @@
+<annotation>
+	<folder>SEC1</folder>
+	<filename>apple_32.jpg</filename>
+	<path>D:\jianguoyun\our\paper\table detection\our\SEC1\apple_32.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1700</width>
+		<height>2200</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>381</ymin>
+			<xmax>1567</xmax>
+			<ymax>750</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>1319</ymin>
+			<xmax>1562</xmax>
+			<ymax>1605</ymax>
+		</bndbox>
+	</object>
+</annotation>
